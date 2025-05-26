@@ -60,7 +60,7 @@ a {
   width: 900px;
   height: 525px;
   min-height: 525px;
-  border: 2px solid white;
+  border: 1px solid white;
   position: relative;
   overflow: hidden;
   border-radius: 10px;
